@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: rdiazconcha/nginx-green:latest
+        image: rdiazconcha/ckad-webapp-green:latest
         ports:
         - containerPort: 80
